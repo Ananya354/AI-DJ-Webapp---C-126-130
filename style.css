@@ -1,0 +1,55 @@
+.heading{
+background-color:darkviolet;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+width: 100%;
+font-size: 30px;
+}
+
+#note{
+font-size: 19px;
+color:aquamarine;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#speed_button{
+color: black;
+font-size: 20px;
+}
+
+.speedDisk{
+float: left;
+margin-left: 20px;
+}
+
+#speed_disk{
+width: 200px;
+border-radius: 100px;
+margin-left: 10px;
+}
+
+#volume_button{
+    color: black;
+    font-size: 20px;
+    }
+    
+    .volumeDisk{
+    float: right;
+    margin-right: 20px;
+    }
+    
+    #volume_disk{
+    width: 200px;
+    border-radius: 100px;
+    margin-right: 10px;
+    }
+    
+#play_button{
+font-size: 20px;
+width: 100px;
+}
+
+canvas{
+border: 5px solid white;
+border-radius: 10px;
+}
+
